@@ -5,7 +5,7 @@ class Book
     attr_reader :title, :turn_page
 end
 
-def title 
+def title
   @title 
 end
 
