@@ -5,8 +5,8 @@ class Book
     attr_reader :title, :turn_page
 end
 
-def title (tot)
-  @title = tot
+def title 
+  @title 
 end
 
 def author=(apple)
