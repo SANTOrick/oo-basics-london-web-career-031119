@@ -10,7 +10,7 @@ end
     @title = banana
 end
 def author=(apple)
-  @author = apple  
+  @author = apple
 end
 
 def page_count=(num)
