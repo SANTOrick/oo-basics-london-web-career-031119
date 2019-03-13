@@ -7,8 +7,8 @@ class Book
     @genre = genre
 end
 
-def title
-  @title = "And Then There Were None"
+def title (tot)
+  @title = tot
 end
 
 def author=(apple)
